@@ -18,4 +18,5 @@ An opinionated list to help you boost the growth of your next startup.
 
 - Talking with Your Team: [Slack](https://slack.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit)
 - Writing Code (IDE): [SublimeText](https://www.sublimetext.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit) (see packages, themes, tutorials, articles and goodies [here](https://github.com/JaredCubilla/sublime))
+- Automate the Boring Stuff: [Zapier](https://zapier.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit)
 
