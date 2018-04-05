@@ -5,7 +5,7 @@ A opinionated list to help you boost the growth of your next startup.
 
 - PHP Framework: [Laravel](https://laravel.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit)
 - Watching for Bugs: [Sentry](https://sentry.io/?utm_source=Awesome-Painless-SaaS-Starter-Kit)
-- Versioning your Code: [BitBucket](https://bitbucket.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit)
+- Versioning your Code: [Git](https://git-scm.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit) + [BitBucket](https://bitbucket.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit)
 - The Server: [DigitalOcean](https://www.digitalocean.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit)
 
 ## 💵 Making Money
