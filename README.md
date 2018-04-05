@@ -1,7 +1,7 @@
 # Awesome Painless SaaS Starter Kit
 An opinionated list to help you boost the growth of your next startup.
 
-## Tech Stuff
+## ⚙️ Tech Stuff
 
 - PHP Framework: [Laravel](https://laravel.com) (see packages, tutorials, videos and other cool resources [here](https://github.com/chiraggude/awesome-laravel))
 - The Server: [DigitalOcean](https://www.digitalocean.com)
@@ -10,7 +10,7 @@ An opinionated list to help you boost the growth of your next startup.
 - Versioning your Code: [Git](https://git-scm.com) + [BitBucket](https://bitbucket.com)
 - Sending Emails from Your App: [SparkPost](https://www.sparkpost.com)
 
-## Easy Marketing
+## 🍭 Easy Marketing
 
 - Build an Automation Flow to Avoid Churn: [ActiveCampaign](https://www.activecampaign.com)
 - Have a Shiny Website: [Webflow](https://webflow.com) (see [video tutorials](https://university.webflow.com/videos))
