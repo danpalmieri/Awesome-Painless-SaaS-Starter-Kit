@@ -6,6 +6,7 @@ An opinionated list to help you boost the growth of your next startup.
 - PHP Framework: [Laravel](https://laravel.com) (see packages, tutorials, videos and other cool resources [here](https://github.com/chiraggude/awesome-laravel))
 - The Server: [DigitalOcean](https://www.digitalocean.com)
 - Mount and Manage the Server for Laravel: [Forge](https://forge.laravel.com)
+- Awesome DNS Manager: [CloudFlare](https://www.cloudflare.com)
 - Watching for Bugs: [Sentry](https://sentry.io)
 - Versioning your Code: [Git](https://git-scm.com) + [BitBucket](https://bitbucket.com)
 - Sending Emails from Your App: [SparkPost](https://www.sparkpost.com)
