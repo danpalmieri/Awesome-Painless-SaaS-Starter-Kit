@@ -10,6 +10,10 @@ An opinionated list to help you boost the growth of your next startup.
 - Versioning your Code: [Git](https://git-scm.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit) + [BitBucket](https://bitbucket.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit)
 - Sending Emails from Your App: [SparkPost](https://www.sparkpost.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit)
 
+## Easy Marketing
+
+- Build an Automation Flow to Avoid Churn: [ActiveCampaign](https://www.activecampaign.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit)
+
 ## 💵 Making Money
 
 - Billing your Clients: [Stripe](https://stripe.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit) (use [Laravel Cashier](https://laravel.com/docs/cashier?utm_source=Awesome-Painless-SaaS-Starter-Kit) to speed up)
