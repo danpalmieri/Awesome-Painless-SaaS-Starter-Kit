@@ -1,5 +1,5 @@
 # Awesome Painless SaaS Starter Kit
-A opinionated list to help you boost the growth of your next startup.
+An opinionated list to help you boost the growth of your next startup.
 
 ## Tech Stuff
 
