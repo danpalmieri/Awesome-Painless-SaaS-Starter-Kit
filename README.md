@@ -7,7 +7,7 @@ An opinionated list to help you boost the growth of your next startup.
 - The Server: [DigitalOcean](https://www.digitalocean.com)
 - Mount and Manage the Server for Laravel: [Forge](https://forge.laravel.com)
 - Awesome DNS Manager: [CloudFlare](https://www.cloudflare.com)
-- Front-end Components: [Bootstrap](https://getbootstrap.com) (if you're feeling adventurous try [React](https://reactjs.org))
+- Front-end Components: [Bootstrap](https://getbootstrap.com) (if you're feeling adventurous use with [React](https://reactjs.org))
 - Watching for Bugs: [Sentry](https://sentry.io)
 - Versioning your Code: [Git](https://git-scm.com) + [BitBucket](https://bitbucket.com)
 - Sending Emails from Your App: [SparkPost](https://www.sparkpost.com)
