@@ -3,7 +3,7 @@ An opinionated list to help you boost the growth of your next startup.
 
 ## Tech Stuff
 
-- PHP Framework: [Laravel](https://laravel.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit)
+- PHP Framework: [Laravel](https://laravel.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit) (see packages, tutorials, videos and other cool resources [here](https://github.com/chiraggude/awesome-laravel))
 - The Server: [DigitalOcean](https://www.digitalocean.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit)
 - Mount and Manage the Server for Laravel: [Forge](https://forge.laravel.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit)
 - Watching for Bugs: [Sentry](https://sentry.io/?utm_source=Awesome-Painless-SaaS-Starter-Kit)
