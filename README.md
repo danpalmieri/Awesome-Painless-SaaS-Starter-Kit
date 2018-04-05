@@ -1,5 +1,5 @@
 # Awesome Painless SaaS Starter Kit
-A handpicked and opinionated list to help you boost the growth of your next startup.
+A opinionated list to help you boost the growth of your next startup.
 
 ## Tech Stuff
 
@@ -15,3 +15,4 @@ A handpicked and opinionated list to help you boost the growth of your next star
 ## ⏱ Productivity Hacks
 
 - Talking with Your Team: [Slack](https://slack.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit)
+
