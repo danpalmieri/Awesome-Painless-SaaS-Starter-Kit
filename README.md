@@ -8,6 +8,7 @@ An opinionated list to help you boost the growth of your next startup.
 - Versioning your Code: [Git](https://git-scm.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit) + [BitBucket](https://bitbucket.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit)
 - The Server: [DigitalOcean](https://www.digitalocean.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit)
 - Mount and Manage the Server for Laravel: [Forge](https://forge.laravel.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit)
+- Sending Emails from Your App: [SparkPost](https://www.sparkpost.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit)
 
 ## 💵 Making Money
 
