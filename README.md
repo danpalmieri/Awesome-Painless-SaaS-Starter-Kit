@@ -2,7 +2,7 @@
 
 ## Tech Stuff
 
-- PHP Framework: <a href="https://laravel.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit" target="_blank">Laravel</a>
+- PHP Framework: [Laravel](https://laravel.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit)
 - Watching for Bugs: [Sentry](https://sentry.io/?utm_source=Awesome-Painless-SaaS-Starter-Kit)
 
 ## Making Money
