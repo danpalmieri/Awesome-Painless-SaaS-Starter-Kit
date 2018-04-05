@@ -23,6 +23,5 @@ An opinionated list to help you boost the growth of your next startup.
 ## ⏱ Productivity Hacks
 
 - Talking with Your Team: [Slack](https://slack.com)
-- Writing Code (IDE): [SublimeText](https://www.sublimetext.com) (see packages, themes, tutorials, articles and goodies [here](https://github.com/JaredCubilla/sublime))
+- Writing Code: [SublimeText](https://www.sublimetext.com) (see packages, themes, tutorials, articles and goodies [here](https://github.com/JaredCubilla/sublime))
 - Automate the Boring Stuff: [Zapier](https://zapier.com)
-
