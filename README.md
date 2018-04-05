@@ -13,7 +13,7 @@ An opinionated list to help you boost the growth of your next startup.
 ## Easy Marketing
 
 - Build an Automation Flow to Avoid Churn: [ActiveCampaign](https://www.activecampaign.com/?utm_source=Awesome-Painless-SaaS-Starter-Kit)
-- Create Online Ads: [Facebook Ads](https://www.facebook.com/advertising)
+- Create Online Ads: [Facebook Ads](https://www.facebook.com/advertising) (learn with [free courses](https://www.udemy.com/courses/search/?q=facebook%20ads&src=ukw&p=1&price=price-free))
 
 ## 💵 Making Money
 
