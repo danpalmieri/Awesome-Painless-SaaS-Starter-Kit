@@ -25,6 +25,7 @@ An opinionated list to help you boost the growth of your next startup.
 ## Beautiful Design
 
 - Pick Your Validated Color Pallete: [BrandColors](https://brandcolors.net)
+- Icons All The Way: [FontAwesome](https://fontawesome.com)
 
 ## 💵 Making Money
 
