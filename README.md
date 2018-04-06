@@ -22,6 +22,10 @@ An opinionated list to help you boost the growth of your next startup.
 - Create Online Ads: [Facebook Ads](https://www.facebook.com/advertising) (learn with [free courses](https://www.udemy.com/courses/search/?q=facebook%20ads&src=ukw&p=1&price=price-free))
 - Plug a Live Chat: [Tawk.to](https://www.tawk.to)
 
+## Beautiful Design
+
+- Pick Your Validated Color Pallete: [BrandColors](https://brandcolors.net)
+
 ## 💵 Making Money
 
 - Billing your Clients: [Stripe](https://stripe.com) (use [Laravel Cashier](https://laravel.com/docs/cashier) to speed up)
