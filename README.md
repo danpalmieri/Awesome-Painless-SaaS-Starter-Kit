@@ -10,6 +10,7 @@ An opinionated list to help you boost the growth of your next startup.
 - Front-end Components: [Bootstrap](https://getbootstrap.com) (feeling adventurous? add [React](https://reactjs.org))
 - Watching for Bugs: [Sentry](https://sentry.io)
 - Versioning your Code: [Git](https://git-scm.com) + [BitBucket](https://bitbucket.com)
+- Enable Global Search Easily: [Algolia](https://www.algolia.com)
 - Sending Emails from Your App: [SparkPost](https://www.sparkpost.com)
 - Improving the User Experience: [Hotjar](https://www.hotjar.com)
 
