@@ -8,7 +8,7 @@ An opinionated list to help you boost the growth of your next startup.
 - Mount and Manage the Server for Laravel: [Forge](https://forge.laravel.com)
 - Awesome DNS Manager: [CloudFlare](https://www.cloudflare.com)
 - Front-end Components: [Bootstrap](https://getbootstrap.com) (feeling adventurous? add [React](https://reactjs.org))
-- Manage Your Database with ♥: [Sequel Pro](https://www.sequelpro.com) (mac users)
+- Manage Your Database with ♥: [Sequel Pro](https://www.sequelpro.com)
 - Watching for Bugs: [Sentry](https://sentry.io)
 - Versioning your Code: [Git](https://git-scm.com) + [BitBucket](https://bitbucket.com)
 - Enable Global Search Easily: [Algolia](https://www.algolia.com)
