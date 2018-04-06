@@ -34,6 +34,6 @@ An opinionated list to help you boost the growth of your next startup.
 - Writing Code: [SublimeText](https://www.sublimetext.com) (see packages, themes, tutorials, articles and goodies [here](https://github.com/JaredCubilla/sublime))
 - Automate the Boring Stuff: [Zapier](https://zapier.com)
 
-## Learning about Business
+## 💡 Learning about Business
 
 - SaaStr: https://www.saastr.com
