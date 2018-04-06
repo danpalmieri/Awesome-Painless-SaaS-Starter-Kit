@@ -26,6 +26,7 @@ An opinionated list to help you boost the growth of your next startup.
 
 ## ⏱ Productivity Hacks
 
+- Organize the Work: [Trello](https://trello.com)
 - Talking with Your Team: [Slack](https://slack.com)
 - Video Conference Made Easy: [Appear.in](https://appear.in)
 - Writing Code: [SublimeText](https://www.sublimetext.com) (see packages, themes, tutorials, articles and goodies [here](https://github.com/JaredCubilla/sublime))
